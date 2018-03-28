@@ -2,9 +2,11 @@
 
 The repository contains a set of ridesharing instances for three ridesharing clusters in Norway, Texas, California.
 
+
+
 # Acknowledgment
 
-These Ridsharing problem instances have been buit from a datasets advertised trips that were provided by Carma Technology Limited (http://www.gocarma.com/)
+These Ridsharing problem instances have been built from a dataset of advertised trips that were provided by Carma Technology Limited (http://www.gocarma.com/)
 
 # Ridesharing Problem Instance Description
 
