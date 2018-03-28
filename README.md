@@ -2,6 +2,24 @@
 
 The repository contains a set of ridesharing instances for three ridesharing clusters in Norway, Texas, California.
 
+Norway
+
+<a href="http://ucc.insight-centre.org/varmant/rsp_instances/Norway_noShifters_dayId1_nbMonths24.tar.gz"> Norway dataset with no shifters  </a>
+
+<a href="http://ucc.insight-centre.org/varmant/rsp_instances/Norway_withShifters_dayId1_nbMonths24.tar.gz"> Norway dataset with shifters </a>
+
+Texas
+
+<a href="http://ucc.insight-centre.org/varmant/rsp_instances/Texas_noShifters_dayId1_nbMonths9.tar.gz"> Texas dataset with no shifters </a>
+
+<a href="http://ucc.insight-centre.org/varmant/rsp_instances/Texas_withShifters_dayId1_nbMonths9.tar.gz"> Texas dataset with shifters </a>
+
+California
+
+<a href="http://ucc.insight-centre.org/varmant/rsp_instances/California_noShifters_dayId1_nbMonths9.tar.gz"> Norway dataset with no shifters </a>
+
+<a href="http://ucc.insight-centre.org/varmant/rsp_instances/California_withShifters_dayId1_nbMonths9.tar.gz"> Norway dataset with shifters</a>
+
 
 
 # Acknowledgment
