@@ -10,7 +10,7 @@ In the demo click the button "execute plan" to advance in the time, "show plan" 
 
 Find in the link below some slide showing how the ridesharing plans have been computed.
 
-<a href="http://ucc.insight-centre.org/varmant/presentationDemoSlides/slides.pdf"> slides </a>
+<a href="http://ucc.insight-centre.org/varmant/presentationDemoSlides/presentationDemo18.pdf"> slides </a>
 
 # ridesharing_pb_instances
 
