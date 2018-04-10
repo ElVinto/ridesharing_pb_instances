@@ -1,3 +1,17 @@
+
+# Demo: Interactive solution of a ridesharing problem
+
+Find in the link below a demo representing an interactive plan resulting from the solving of a ridesharing problem. In this solution, 2 drivers pick-up and drop-off 5 riders.
+In the demo click the button "execute plan" to advance in the time, "show plan" to check the plan that has been scheduled at the current time, and "previous" to come back to the previous action. Each object shown on the map is clickable and display the current information of the drivers and the passengers.
+
+<a href="http://ucc.insight-centre.org/varmant/scenarioDemo/test_nbReqs_5_nbVehs_2_start.html"> interactive solution </a>
+
+# Presentation Slides
+
+Find in the link below some slide showing how the ridesharing plans have been computed.
+
+<a href="http://ucc.insight-centre.org/varmant/presentationDemoSlides/slides.pdf"> slides </a>
+
 # ridesharing_pb_instances
 
 The repository contains a set of ridesharing instances for three ridesharing clusters in Norway, Texas, California.
