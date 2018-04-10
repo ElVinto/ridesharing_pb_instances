@@ -1,8 +1,15 @@
 
 # Demo: Interactive solution of a ridesharing problem
 
-Find in the link below a demo representing an interactive plan resulting from the solving of a ridesharing problem. In this solution, 2 drivers pick-up and drop-off 5 riders.
-In the demo click the button "execute plan" to advance in the time, "show plan" to check the plan that has been scheduled at the current time, and "previous" to come back to the previous action. Each object shown on the map is clickable and display the current information of the drivers and the passengers.
+Find in the link below a demo simulating the interleave between the execution of a ridesharing plan and the planning of a new at the arrival of a new rider request. an interactive plan resulting from the solving of a ridesharing problem. In this solution, 2 drivers pick-up and drop-off 5 riders.
+In the demo interactive solution:
+	Click on the button "execute plan" to show what have been executing at the time. 
+	Click on the button "preview plan" to show the updated plan that has been scheduled at the  time
+	Click on the button "previous" to come back to the previous action.
+	
+More over each movable object, i.e. car and riders is clickable, and displays the current information of concerning the drivers and the passengers.
+
+Have fun
 
 <a href="http://ucc.insight-centre.org/varmant/scenarioDemo/test_nbReqs_5_nbVehs_2_start.html"> interactive solution </a>
 
