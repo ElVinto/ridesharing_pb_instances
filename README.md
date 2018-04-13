@@ -1,8 +1,8 @@
 
 # Demo: Interactive solution of a ridesharing problem
 
-Find in the links below a demo simulating a system wide ridesharing plan through an interactive solution.  These scenarios show two drivers sharing their journeys with three riders. The first link illustrates a ridesharing plan of the objective aiming et maximising the number of users. The second link shows a ridesharing solution of the objective aiming at maximizing the number of passengers.
-In the demo the three rider requests arriving at the same time are collected before a system wide plan is computed, (click "next" or "next request"). To visualize the ridesharing plan click on the button "compute plan". To visualize an execution of the ridesharing plan click "show plan". More over all movable objects, i.e., cars and riders are clickable, and display the current information about their states.
+Find in the links below a demo simulating a system wide ridesharing plan through an interactive solution.  These scenarios show two drivers sharing their journeys with three riders. The first link illustrates a ridesharing plan aiming at maximizing the number of users. The second link shows a ridesharing solution  aiming at maximizing the number of passengers.
+In the demo, the three rider requests arriving at the same time are collected before a system wide plan is computed, (click "next" or "next request"). To visualize the ridesharing plan click on the button "compute plan". To visualize an execution of the ridesharing plan click "show plan". Moreover, all movable objects, i.e., cars and riders, are clickable and display the current information about their state.
 	
 
 <a href="http://ucc.insight-centre.org/varmant/scenarioDemo/demoMaxUsers_start.html"> Demo Maximising the number of users (drivers and passengers) </a>
