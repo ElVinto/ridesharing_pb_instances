@@ -1,17 +1,12 @@
 
 # Demo: Interactive solution of a ridesharing problem
 
-Find in the link below a demo simulating the interleave between the execution of a ridesharing plan and the planning of a new at the arrival of a new rider request. an interactive plan resulting from the solving of a ridesharing problem. In this solution, 2 drivers pick-up and drop-off 5 riders.
-In the demo interactive solution:
-	Click on the button "execute plan" to show what have been executing at the time. 
-	Click on the button "preview plan" to show the updated plan that has been scheduled at the  time
-	Click on the button "previous" to come back to the previous action.
+Find in the links below a demo simulating a system wide ridesharing plan through an interactive solution.  These scenarios show two drivers sharing their journeys with three riders. The first link illustrates a ridesharing plan of the objective aiming et maximising the number of users. The second link shows a ridesharing solution of the objective aiming at maximizing the number of passengers.
+In the demo the three rider requests arriving at the same time are collected before a system wide plan is computed, (click "next" or "next request"). To visualize the ridesharing plan click on the button "compute plan". To visualize an execution of the ridesharing plan click "show plan". More over all movable objects, i.e., cars and riders are clickable, and display the current information about their states.
 	
-More over each movable object, i.e. car and riders is clickable, and displays the current information of concerning the drivers and the passengers.
 
-Have fun
-
-<a href="http://ucc.insight-centre.org/varmant/scenarioDemo/test_nbReqs_5_nbVehs_2_start.html"> interactive solution </a>
+<a href="http://ucc.insight-centre.org/varmant/scenarioDemo/demoMaxUsers_start.html"> Demo Maximising the number of users (drivers and passengers) </a>
+<a href="http://ucc.insight-centre.org/varmant/scenarioDemo/demoMaxPassengers_start.html"> Demo Maximizing the number of passengers </a>
 
 # Presentation Slides
 
