@@ -43,7 +43,7 @@ California
 
 
 
-# Acknowledgment
+# Acknowledgement
 
 These Ridsharing problem instances have been built from a dataset of advertised trips that were provided by Carma Technology Limited (http://www.gocarma.com/)
 
