@@ -7,7 +7,7 @@ Please find below a link to a video presenting the approach and the correspondin
 
 <a href="http://ucc.insight-centre.org/varmant/presentationDemoSlides/presentationDemo18.pdf"> Slides </a>
 
-# Demo: Interactive solution of a ridesharing problem
+# Visualizing interactive solutiona of a ridesharing problem
 
 Find in the links below a demo simulating a system wide ridesharing plan through an interactive solution.  These scenarios show two drivers sharing their journeys with three riders. The first link illustrates a ridesharing plan aiming at maximizing the number of users. The second link shows a ridesharing solution  aiming at maximizing the number of passengers.
 In the demo, the three rider requests arriving at the same time are collected before a system wide plan is computed, (click "next request"). To visualize the ridesharing plan click on the button "compute plan". To visualize an execution of the ridesharing plan click "show plan". Moreover, all movable objects, i.e., cars and riders, are clickable and display the current information about their state.
