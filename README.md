@@ -17,9 +17,11 @@ In the demo, the three rider requests arriving at the same time are collected be
 
 <a href="http://ucc.insight-centre.org/varmant/scenarioDemo/demoMaxUsers_start.html"> Demo Maximising the number of users (drivers and passengers) </a>
 
+<!--
 
 <a href="http://ucc.insight-centre.org/varmant/scenarioDemo/demoMaxPassengers_start.html"> Demo Maximizing the number of passengers </a>
 
+-->
 
 # ridesharing_pb_instances
 
