@@ -1,13 +1,15 @@
 
-<!-- Video and Presentation Slides
+
 
 Please find below a link to a video presenting the approach and the corresponding slides showing how the ridesharing plans have been computed.
 
 <a href="http://ucc.insight-centre.org/varmant/presentationDemoSlides/videoSpeech.mov"> Video </a>
 
-<a href="http://ucc.insight-centre.org/varmant/presentationDemoSlides/presentationDemo18.pdf"> Slides </a>
 
+<!-- Video and Presentation Slides
+<a href="http://ucc.insight-centre.org/varmant/presentationDemoSlides/presentationDemo18.pdf"> Slides </a>
 -->
+
 
 # Visualizing interactive solutions of a ridesharing problem
 
